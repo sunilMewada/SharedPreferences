@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array
+        name="Hobbies">
+        <item>Cricket</item>
+        <item>Hocky</item>
+        <item>Vollyboll</item>
+        <item>Kabbadi</item>
+        <item>Kho Kho Touch</item>
+    </string-array>
+</resources>
